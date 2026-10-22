@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The window background must match the Compose theme, or it shows through
+         any screen not built on a Scaffold. values-night/ supplies the dark twin. -->
+    <style name="Theme.MediLocker" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F6F8F7</item>
+        <item name="android:statusBarColor">#F6F8F7</item>
+        <item name="android:navigationBarColor">#F6F8F7</item>
+    </style>
+</resources>

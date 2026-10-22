@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- No CAMERA permission by design. We hand the capture to the system camera
+         app via ACTION_IMAGE_CAPTURE and never open the camera ourselves.
+         DECLARING the permission would make Android enforce it against us and
+         crash the launch with SecurityException unless it were also granted at
+         runtime — so declaring it would add a prompt AND a failure mode while
+         buying nothing. Fewer permissions is also the honest posture for a
+         privacy-first vault. -->
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-feature android:name="android.hardware.camera.any" android:required="false" />
+
+    <application
+        android:label="MediLocker"
+        android:icon="@android:drawable/ic_menu_view"
+        android:theme="@style/Theme.MediLocker"
+        android:supportsRtl="true"
+        android:allowBackup="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="false">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@style/Theme.MediLocker">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,1557 @@
+###DOC PRESCRIPTION
+Dr. Sameer Kulkarni
+Internal Medicine  |  Reg. No. MMC/10576
+Sunrise Clinic, Nashik
+--------------------------------------------------------------
+Patient: Sameer Bose    Age/Sex: 27/M    Date: 03/10/2026
+Diagnosis: Acute Leukaemia  [ICD-10: A392]
+
+Rx
+   1. Inj. Clofarabine 52mg — SOS x as advised, after food
+   2. Inj. Methylprednisolone 4mg — QID (1-1-1-1) x 2 months
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Banerjee
+Internal Medicine  |  Reg. No. MMC/58862
+Sunrise Clinic, Mumbai
+--------------------------------------------------------------
+Patient: Ashok Patel    Age/Sex: 26/M    Date: 27/11/2026
+Diagnosis: Small Cell Lung Cancer  [ICD-10: C8307]
+
+Rx
+   1. Inj. Avopef (Etoposide) 100mg — BD (1-0-1) x 5 days, empty stomach
+   2. Inj. Doxorubicin 75mg — OD (1-0-0) x 1 month, with food
+
+Advice: Adequate rest advised.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Kavita Kulkarni
+Consultant Physician  |  Reg. No. MMC/49903
+Shree Medical Centre, Thane
+--------------------------------------------------------------
+Patient: Vijay Bose    Age/Sex: 40/M    Date: 09/09/2026
+Diagnosis: Azotaemia
+
+Rx
+   1. Drops. Salmon — TDS (1-1-1) x as advised
+
+Advice: Avoid alcohol during treatment.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sameer Verma
+Internal Medicine  |  Reg. No. MMC/61649
+Shree Medical Centre, Thane
+--------------------------------------------------------------
+Patient: Swati Verma    Age/Sex: 14/F    Date: 21/08/2026
+Diagnosis: Chronic Hepatitis B  [ICD-10: B182]
+
+Rx
+   1. Tab. Adefovir 10mg — BD (1-0-1) x 14 days, before food
+   2. Tab. Nabi-Hb (Hepatitis) — OD (0-0-1) x as advised, empty stomach
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Prakash Kumar
+MBBS, MD  |  Reg. No. MMC/25285
+Wellness Point, Nashik
+--------------------------------------------------------------
+Patient: Amit Pillai    Age/Sex: 18/M    Date: 04/03/2026
+Diagnosis: Gastritis  [ICD-10: K5281]
+
+Rx
+   1. Cap. Lansoprazole 30mg — HS (0-0-1) x 2 months, with food
+   2. Cap. Omeprazole 20mg — HS (0-0-1) x 2 months, with food
+   3. Tab. Pantoprazole 40mg — OD (0-0-1) x 14 days, empty stomach
+   4. Tab. Propantheline — SOS x 14 days, with food
+
+Advice: Plenty of oral fluids.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Divya Patel
+Consultant Physician  |  Reg. No. MMC/78582
+City Care Polyclinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Rahul Joshi    Age/Sex: 45/M    Date: 09/01/2026
+Diagnosis: Dehydration  [ICD-10: E860]
+
+Rx
+   1. Inj. Valproate 10mg — OD (0-0-1) x 7 days, empty stomach
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Pooja Malhotra
+Internal Medicine  |  Reg. No. MMC/50399
+Arogya Clinic, Kalyan
+--------------------------------------------------------------
+Patient: Sunita Joshi    Age/Sex: 17/F    Date: 21/05/2026
+Diagnosis: Prostate Carcinoma  [ICD-10: D075]
+
+Rx
+   1. Tab. Eulexin (Flutamide) 750mg — QID (1-1-1-1) x as advised, before food
+   2. Tab. Goserelin 10.8mg — TDS (1-1-1) x as advised, after food
+
+Advice: Review if symptoms worsen.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sanjay Iyer
+MBBS, MD  |  Reg. No. MMC/12008
+Sunrise Clinic, Kalyan
+--------------------------------------------------------------
+Patient: Rahul Chauhan    Age/Sex: 26/M    Date: 24/11/2026
+Diagnosis: Urinary Incontinence  [ICD-10: N39492]
+
+Rx
+   1. Tab. Cardura (Doxazosin) 16mg — OD (0-0-1) x 1 month
+   2. Cap. Trospium Chloride (Trospium) 20mg — BD (1-0-1) x 5 days, with food
+   3. Tab. Oxytrol (Oxybutynin) 3.9mg — OD (0-0-1) x 3 days
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Pooja Joshi
+Internal Medicine  |  Reg. No. MMC/32281
+Wellness Point, Navi Mumbai
+--------------------------------------------------------------
+Patient: Swati Malhotra    Age/Sex: 68/F    Date: 28/05/2026
+Diagnosis: Proteinuria  [ICD-10: N06A]
+
+Rx
+   1. Inj. Methylprednisolone Sodium Succinate (Methylprednisolone) 4mg — BD (1-0-1) x 7 days, before food
+
+Advice: Adequate rest advised.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Arun Nair
+M.D. (Medicine)  |  Reg. No. MMC/55142
+Shree Medical Centre, Navi Mumbai
+--------------------------------------------------------------
+Patient: Divya Gupta    Age/Sex: 7/F    Date: 22/10/2026
+Diagnosis: Poor Quality Sleep  [ICD-10: K0856]
+
+Rx
+   1. Tab. Modafinil 200mg — SOS x 3 days, empty stomach
+   2. Tab. Promethazine 25mg — BD (1-0-1) x 2 months, before food
+   3. Drops. Melatonin — TDS (1-1-1) x as advised, before food
+
+Advice: Adequate rest advised.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Shalini Bose
+Internal Medicine  |  Reg. No. MMC/67693
+Arogya Clinic, Aurangabad
+--------------------------------------------------------------
+Patient: Neha Gupta    Age/Sex: 88/F    Date: 25/07/2026
+Diagnosis: Chronic Lymphocytic Leukaemia  [ICD-10: C9111]
+
+Rx
+   1. Inj. Bendamustine Hydrochloride (Bendamustine) 100mg — BD (1-0-1) x as advised
+   2. Tab. Leukeran (Chlorambucil) 0.2mg — OD (1-0-0) x 14 days, with food
+   3. Inj. Cyclophosphamide 10mg — SOS x 2 months, empty stomach
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anita Sharma
+M.D. (Medicine)  |  Reg. No. MMC/82598
+Sunrise Clinic, Nagpur
+--------------------------------------------------------------
+Patient: Rekha Banerjee    Age/Sex: 17/F    Date: 21/12/2026
+Diagnosis: Glomerulonephritis Acute  [ICD-10: N00A]
+
+Rx
+   1. Inj. Bicillin L-A (Benzathine) 000units — BD (1-0-1) x as advised, empty stomach
+   2. Soln. Penicillin — QID (1-1-1-1) x as advised
+
+Advice: Adequate rest advised.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Neha Nair
+M.D. (Medicine)  |  Reg. No. MMC/99793
+Wellness Point, Aurangabad
+--------------------------------------------------------------
+Patient: Sanjay Singh    Age/Sex: 29/M    Date: 04/06/2026
+Diagnosis: Disorientation  [ICD-10: R410]
+
+Rx
+   1. Cap. Nitrite — SOS x 2 months, after food
+   2. Inj. Sodium 3.375g — BD (1-0-1) x 7 days, with food
+   3. Tab. Zuclopenthixol — BD (1-0-1) x 1 month
+
+Advice: Regular exercise advised.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sneha Verma
+Consultant Physician  |  Reg. No. MMC/63822
+Wellness Point, Navi Mumbai
+--------------------------------------------------------------
+Patient: Sanjay Verma    Age/Sex: 65/M    Date: 13/03/2026
+Diagnosis: Pituitary Tumour  [ICD-10: E220]
+
+Rx
+   1. Tab. Cabergoline 0.25mg — OD (0-0-1) x 3 days, after food
+   2. Tab. Nafarelin — QID (1-1-1-1) x 14 days, after food
+   3. Inj. Cortrosyn (Cosyntropin) 0.25mg — QID (1-1-1-1) x 10 days, empty stomach
+
+Advice: Review if symptoms worsen.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Divya Mehta
+M.D. (Medicine)  |  Reg. No. MMC/41515
+Wellness Point, Navi Mumbai
+--------------------------------------------------------------
+Patient: Ashok Shah    Age/Sex: 13/M    Date: 04/10/2026
+Diagnosis: Hypotonia  [ICD-10: P942]
+
+Rx
+   1. Tab. Pancuronium — OD (0-0-1) x 3 months, empty stomach
+   2. Susp. Bupivacaine — BD (1-0-1) x 10 days, after food
+
+Advice: Diabetic diet to be followed.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Banerjee
+Internal Medicine  |  Reg. No. MMC/17302
+Wellness Point, Aurangabad
+--------------------------------------------------------------
+Patient: Vikram Patel    Age/Sex: 74/M    Date: 12/04/2026
+Diagnosis: Neutropenia  [ICD-10: D703]
+
+Rx
+   1. Inj. Noxafil (Posaconazole) 300mg — TDS (1-1-1) x 3 months, after food
+
+Advice: Low salt diet.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Kavita Iyer
+Internal Medicine  |  Reg. No. MMC/88088
+Arogya Clinic, Mumbai
+--------------------------------------------------------------
+Patient: Sameer Malhotra    Age/Sex: 77/M    Date: 01/01/2026
+Diagnosis: Transplant Rejection  [ICD-10: T8611]
+
+Rx
+   1. Oint. Tacrolimus — SOS x 2 months
+   2. Tab. Mycophenolate 1g — SOS x 1 month, before food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Rajesh Chauhan
+General Physician  |  Reg. No. MMC/79760
+Wellness Point, Thane
+--------------------------------------------------------------
+Patient: Kavita Nair    Age/Sex: 3/F    Date: 26/02/2026
+Diagnosis: Ligament Sprain  [ICD-10: S23420S]
+
+Rx
+   1. Susp. Aspirin 81mg — HS (0-0-1) x 2 months, after food
+   2. Drops. Diclofenac Sodium (Diclofenac) — OD (1-0-0) x 3 months, empty stomach
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Amit Pillai
+MBBS, MD  |  Reg. No. MMC/22314
+Arogya Clinic, Aurangabad
+--------------------------------------------------------------
+Patient: Rekha Chauhan    Age/Sex: 19/F    Date: 27/10/2026
+Diagnosis: Lacrimation Increased  [ICD-10: E163]
+
+Rx
+   1. Tab. Diphenhydramine 50mg — BD (1-0-1) x 3 months, before food
+
+Advice: Low salt diet.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sanjay Kulkarni
+M.D. (Medicine)  |  Reg. No. MMC/27375
+Wellness Point, Nashik
+--------------------------------------------------------------
+Patient: Swati Patel    Age/Sex: 39/F    Date: 17/11/2026
+Diagnosis: Seborrhoeic Dermatitis  [ICD-10: B653]
+
+Rx
+   1. Cream. Aosi Healthcare (Hydrocortisone) 240mg — HS (0-0-1) x 3 days, with food
+   2. Cream. Fluocinolone Acetonide Oil (Fluocinolone) 0.6mcg — HS (0-0-1) x 2 months, before food
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Neha Verma
+Consultant Physician  |  Reg. No. MMC/46756
+Sunrise Clinic, Nashik
+--------------------------------------------------------------
+Patient: Rekha Joshi    Age/Sex: 23/F    Date: 14/11/2026
+Diagnosis: Abdominal Bloating  [ICD-10: A421]
+
+Rx
+   1. Susp. Paroxetine 62.5mg — TDS (1-1-1) x 14 days, after food
+   2. Tab. Sertraline Hcl (Sertraline) 25mg — BD (1-0-1) x as advised, with food
+   3. Drops. Endometrin (Progesterone) 200mg — OD (1-0-0) x 2 months, after food
+
+Advice: Avoid self-medication.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Manoj Bose
+Internal Medicine  |  Reg. No. MMC/77744
+Wellness Point, Kalyan
+--------------------------------------------------------------
+Patient: Pooja Kulkarni    Age/Sex: 57/F    Date: 10/01/2026
+Diagnosis: Extravasation  [ICD-10: R390]
+
+Rx
+   1. Inj. Dexrazoxane 500mg — TDS (1-1-1) x 5 days, with food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Kavita Chauhan
+General Physician  |  Reg. No. MMC/88444
+Sunrise Clinic, Mumbai
+--------------------------------------------------------------
+Patient: Neha Chauhan    Age/Sex: 30/F    Date: 06/05/2026
+Diagnosis: Trachoma  [ICD-10: A719]
+
+Rx
+   1. Cap. Doxycycline Hyclate (Doxycycline) 200mg — BD (1-0-1) x 14 days, with food
+   2. Tab. Tetracycline 500mg — OD (0-0-1) x 14 days
+   3. Susp. Azithromycin 500mg — TDS (1-1-1) x 3 months, after food
+   4. Gel. Erythromycin 250mg — TDS (1-1-1) x 5 days
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Amit Verma
+M.D. (Medicine)  |  Reg. No. MMC/21685
+City Care Polyclinic, Nashik
+--------------------------------------------------------------
+Patient: Ashok Rao    Age/Sex: 63/M    Date: 21/12/2026
+Diagnosis: Renal Failure Acute  [ICD-10: P960]
+
+Rx
+   1. Tab. Terlivaz (Terlipressin) 0.85mg — BD (1-0-1) x 3 months
+   2. Inj. Lasix Onyu (Furosemide) 80mg — SOS x 1 month, with food
+
+Advice: Avoid self-medication.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Desai
+MBBS, MD  |  Reg. No. MMC/23739
+Nirmal Hospital OPD, Nagpur
+--------------------------------------------------------------
+Patient: Manoj Iyer    Age/Sex: 43/M    Date: 27/07/2026
+Diagnosis: Multiple Fractures  [ICD-10: S2243XS]
+
+Rx
+   1. Tab. Risedronate Sodium (Risedronate) 5mg — HS (0-0-1) x 5 days
+   2. Soln. Fosamax (Alendronate) 5mg — OD (0-0-1) x 3 months, with food
+   3. Inj. Zoledronic Acid (Zoledronic) 4mg — HS (0-0-1) x 14 days
+
+Advice: Complete the full course.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Priya Verma
+MBBS, MD  |  Reg. No. MMC/34880
+Nirmal Hospital OPD, Thane
+--------------------------------------------------------------
+Patient: Neha Mehta    Age/Sex: 32/F    Date: 19/06/2026
+Diagnosis: Disability  [ICD-10: Z0271]
+
+Rx
+   1. Inj. Mitoxantrone 12mg — BD (1-0-1) x 5 days
+   2. Tab. Alosetron 0.5mg — OD (1-0-0) x 1 month, before food
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anita Patel
+Internal Medicine  |  Reg. No. MMC/87766
+Nirmal Hospital OPD, Aurangabad
+--------------------------------------------------------------
+Patient: Neha Shah    Age/Sex: 46/F    Date: 13/01/2026
+Diagnosis: Tardive Dyskinesia  [ICD-10: K224]
+
+Rx
+   1. Tab. Prochlorperazine — TDS (1-1-1) x 3 days, before food
+   2. Tab. Trifluoperazine — BD (1-0-1) x 5 days, with food
+   3. Tab. Benztropine — OD (1-0-0) x 14 days, empty stomach
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vikram Sharma
+M.D. (Medicine)  |  Reg. No. MMC/41308
+Arogya Clinic, Pune
+--------------------------------------------------------------
+Patient: Arun Banerjee    Age/Sex: 80/M    Date: 09/02/2026
+Diagnosis: Transient Ischaemic Attack  [ICD-10: G459]
+
+Rx
+   1. Tab. Telmisartan 40mg — OD (0-0-1) x 3 months, empty stomach
+   2. Tab. Pravastatin 10mg — SOS x 10 days, after food
+
+Advice: Complete the full course.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Arun Banerjee
+M.D. (Medicine)  |  Reg. No. MMC/15362
+Wellness Point, Thane
+--------------------------------------------------------------
+Patient: Prakash Kulkarni    Age/Sex: 50/M    Date: 24/04/2026
+Diagnosis: Pulmonary Embolism  [ICD-10: I2782]
+
+Rx
+   1. Inj. Heparin Sodium And Dextrose (Heparin) 333units — OD (1-0-0) x 14 days, empty stomach
+   2. Tab. Warfarin — SOS x 14 days, with food
+   3. Inj. Fondaparinux 2.5mg — SOS x 1 month, after food
+   4. Tab. Eliquis (Apixaban) 5mg — BD (1-0-1) x 3 months, after food
+
+Advice: Avoid alcohol during treatment.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Shalini Mehta
+General Physician  |  Reg. No. MMC/85639
+Sunrise Clinic, Thane
+--------------------------------------------------------------
+Patient: Sameer Pillai    Age/Sex: 20/M    Date: 03/06/2026
+Diagnosis: Squamous Cell Carcinoma  [ICD-10: C4402]
+
+Rx
+   1. Tab. Bleomycin 2units — HS (0-0-1) x 7 days, empty stomach
+   2. Inj. Doxorubicin Hydrochloride (Doxorubicin) 75mg — TDS (1-1-1) x 7 days
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vikram Banerjee
+General Physician  |  Reg. No. MMC/70646
+Shree Medical Centre, Aurangabad
+--------------------------------------------------------------
+Patient: Meera Kumar    Age/Sex: 22/F    Date: 22/01/2026
+Diagnosis: Hodgkin'S Disease  [ICD-10: A281]
+
+Rx
+   1. Tab. Gleostine (Lomustine) 130mg — OD (1-0-0) x 3 months, empty stomach
+   2. Inj. Cyclophosphamide 5mg — HS (0-0-1) x 3 months, before food
+
+Advice: Avoid self-medication.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anita Rao
+Internal Medicine  |  Reg. No. MMC/20925
+City Care Polyclinic, Pune
+--------------------------------------------------------------
+Patient: Sneha Pillai    Age/Sex: 50/F    Date: 27/01/2026
+Diagnosis: Vaginitis Atrophic  [ICD-10: N952]
+
+Rx
+   1. Cream. Estradiol — QID (1-1-1-1) x 5 days, empty stomach
+   2. Cream. Estriol — BD (1-0-1) x as advised, after food
+
+Advice: Complete the full course.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Desai
+MBBS, MD  |  Reg. No. MMC/92717
+Arogya Clinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Vikram Desai    Age/Sex: 8/M    Date: 27/02/2026
+Diagnosis: Colon Cancer  [ICD-10: D010]
+
+Rx
+   1. Tab. Xeloda (Capecitabine) 500mg — BD (1-0-1) x 3 months
+   2. Inj. Oxaliplatin 85mg — OD (1-0-0) x 7 days, after food
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Arun Reddy
+Internal Medicine  |  Reg. No. MMC/91343
+Shree Medical Centre, Navi Mumbai
+--------------------------------------------------------------
+Patient: Rahul Shah    Age/Sex: 59/M    Date: 01/07/2026
+Diagnosis: Asthenia
+
+Rx
+   1. Tab. Deprenyl — OD (0-0-1) x 7 days, after food
+   2. Tab. Sertraline Hcl (Sertraline) 200mg — BD (1-0-1) x 3 days, after food
+
+Advice: Complete the full course.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Manoj Pillai
+General Physician  |  Reg. No. MMC/62494
+Sunrise Clinic, Pune
+--------------------------------------------------------------
+Patient: Sunita Reddy    Age/Sex: 73/F    Date: 23/05/2026
+Diagnosis: Hyperparathyroidism  [ICD-10: E210]
+
+Rx
+   1. Drops. Dysbio Plus (Salmon) — OD (1-0-0) x 5 days, empty stomach
+   2. Cream. Estradiol — QID (1-1-1-1) x 14 days, before food
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Deepa Singh
+MBBS, MD  |  Reg. No. MMC/77513
+Sunrise Clinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Rekha Verma    Age/Sex: 47/F    Date: 08/07/2026
+Diagnosis: Rhinitis Seasonal  [ICD-10: J302]
+
+Rx
+   1. Spray. Chlorpheniramine 4mg — HS (0-0-1) x 10 days
+   2. Inj. Medrol (Methylprednisolone) 48mg — TDS (1-1-1) x 3 months, after food
+
+Advice: Adequate rest advised.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Amit Kulkarni
+MBBS, MD  |  Reg. No. MMC/32065
+City Care Polyclinic, Kalyan
+--------------------------------------------------------------
+Patient: Meera Verma    Age/Sex: 48/F    Date: 17/09/2026
+Diagnosis: Hypokalaemia
+
+Rx
+   1. Tab. Mycapssa (Octreotide) 20mg — OD (0-0-1) x 14 days
+
+Advice: Avoid self-medication.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vikram Singh
+General Physician  |  Reg. No. MMC/72114
+Wellness Point, Nagpur
+--------------------------------------------------------------
+Patient: Anita Malhotra    Age/Sex: 71/F    Date: 16/11/2026
+Diagnosis: Type 2 Diabetes Mellitus  [ICD-10: E1021]
+
+Rx
+   1. Tab. Metformin Hydrochloride (Metformin) 500mg — HS (0-0-1) x as advised, empty stomach
+   2. Tab. Colesevelam — BD (1-0-1) x as advised, empty stomach
+   3. Tab. Canagliflozin 300mg — OD (0-0-1) x 7 days, empty stomach
+   4. Tab. Antara (Fenofibrate) 150mg — OD (1-0-0) x 1 month, with food
+
+Advice: Low salt diet.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Ramesh Patel
+Internal Medicine  |  Reg. No. MMC/38730
+Shree Medical Centre, Nashik
+--------------------------------------------------------------
+Patient: Sunita Pillai    Age/Sex: 55/F    Date: 13/10/2026
+Diagnosis: Crohn'S Disease  [ICD-10: K5090]
+
+Rx
+   1. Cap. Uceris (Budesonide) 16mg — SOS x 3 months, with food
+   2. Inj. Cyanocobalamin 500mcg — BD (1-0-1) x 3 months, empty stomach
+
+Advice: Regular exercise advised.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Prakash Kulkarni
+M.D. (Medicine)  |  Reg. No. MMC/41910
+Wellness Point, Nashik
+--------------------------------------------------------------
+Patient: Neha Malhotra    Age/Sex: 75/F    Date: 02/01/2026
+Diagnosis: Partial Epilepsy
+
+Rx
+   1. Cap. Topamax (Topiramate) 50mg — BD (1-0-1) x 3 months, with food
+   2. Susp. Trileptal (Oxcarbazepine) 2400mg — HS (0-0-1) x 2 months
+
+Advice: Review if symptoms worsen.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Divya Sharma
+Internal Medicine  |  Reg. No. MMC/38826
+Nirmal Hospital OPD, Thane
+--------------------------------------------------------------
+Patient: Rekha Joshi    Age/Sex: 74/F    Date: 25/08/2026
+Diagnosis: Parkinson'S Disease  [ICD-10: G20A2]
+
+Rx
+   1. Tab. Benztropine — SOS x as advised, before food
+   2. Soln. Gocovri (Amantadine) 274mg — TDS (1-1-1) x 3 days
+
+Advice: Avoid self-medication.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Amit Reddy
+General Physician  |  Reg. No. MMC/72056
+Wellness Point, Pune
+--------------------------------------------------------------
+Patient: Rahul Patel    Age/Sex: 66/M    Date: 10/05/2026
+Diagnosis: Pharyngitis  [ICD-10: A545]
+
+Rx
+   1. Susp. Azithromycin Dihydrate (Azithromycin) 250mg — BD (1-0-1) x 1 month, before food
+   2. Susp. Cefpodoxime Proxetil (Cefpodoxime) — BD (1-0-1) x 14 days, with food
+   3. Powder. Cefdinir 600mg — QID (1-1-1-1) x 10 days, with food
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Prakash Patel
+General Physician  |  Reg. No. MMC/92610
+Shree Medical Centre, Nashik
+--------------------------------------------------------------
+Patient: Amit Bose    Age/Sex: 77/M    Date: 06/06/2026
+Diagnosis: Arteriosclerosis
+
+Rx
+   1. Tab. Bezafibrate — SOS x as advised, empty stomach
+
+Advice: Review if symptoms worsen.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Swati Patel
+MBBS, MD  |  Reg. No. MMC/15885
+Arogya Clinic, Mumbai
+--------------------------------------------------------------
+Patient: Anita Pillai    Age/Sex: 18/F    Date: 01/12/2026
+Diagnosis: Hypersomnia  [ICD-10: F5111]
+
+Rx
+   1. Soln. Citalopram 20mg — QID (1-1-1-1) x 3 days, with food
+   2. Tab. Venlafaxine Hydrochloride (Venlafaxine) 75mg — TDS (1-1-1) x 1 month, after food
+
+Advice: Low salt diet.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Kulkarni
+MBBS, MD  |  Reg. No. MMC/63944
+Shree Medical Centre, Aurangabad
+--------------------------------------------------------------
+Patient: Pooja Desai    Age/Sex: 57/F    Date: 18/03/2026
+Diagnosis: Mydriasis  [ICD-10: H5704]
+
+Rx
+   1. Drops. Mydriacyl (Tropicamide) — QID (1-1-1-1) x 1 month, with food
+   2. Drops. Cyclopentolate Hydrochloride (Cyclopentolate) — BD (1-0-1) x 2 months, before food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sanjay Banerjee
+M.D. (Medicine)  |  Reg. No. MMC/62465
+Wellness Point, Pune
+--------------------------------------------------------------
+Patient: Sanjay Patel    Age/Sex: 11/M    Date: 25/03/2026
+Diagnosis: Cycloplegia
+
+Rx
+   1. Drops. Cyclopentolate — BD (1-0-1) x 1 month, empty stomach
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Shalini Pillai
+M.D. (Medicine)  |  Reg. No. MMC/53948
+Wellness Point, Kalyan
+--------------------------------------------------------------
+Patient: Rekha Joshi    Age/Sex: 76/F    Date: 06/10/2026
+Diagnosis: Abscess  [ICD-10: D733]
+
+Rx
+   1. Inj. Aztreonam — TDS (1-1-1) x 2 months
+
+Advice: Adequate rest advised.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sameer Reddy
+M.D. (Medicine)  |  Reg. No. MMC/18729
+Nirmal Hospital OPD, Nashik
+--------------------------------------------------------------
+Patient: Ashok Rao    Age/Sex: 85/M    Date: 19/03/2026
+Diagnosis: Parkinson'S Disease  [ICD-10: G20A2]
+
+Rx
+   1. Tab. Bromocriptine Mesylate (Bromocriptine) 4.8mg — OD (0-0-1) x 14 days, with food
+   2. Tab. Tasmar (Tolcapone) — QID (1-1-1-1) x 5 days, before food
+   3. Tab. Carbidopa 70mg — SOS x as advised
+   4. Soln. Gocovri (Amantadine) 137mg — BD (1-0-1) x 14 days
+
+Advice: Low salt diet.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Prakash Kulkarni
+General Physician  |  Reg. No. MMC/68120
+Arogya Clinic, Nagpur
+--------------------------------------------------------------
+Patient: Sameer Singh    Age/Sex: 20/M    Date: 09/12/2026
+Diagnosis: Oropharyngeal Pain  [ICD-10: R1312]
+
+Rx
+   1. Tab. Benzydamine — OD (0-0-1) x 7 days, with food
+   2. Tab. Oseltamivir Phosphate (Oseltamivir) 75mg — OD (1-0-0) x as advised, with food
+   3. Drops. Progesterone 10mg — BD (1-0-1) x 5 days, after food
+   4. Cream. Acolye Numbing Cream Anorectal(Hemorrhoidal) Cream (Lidocaine) 0.9g — BD (1-0-1) x 3 days
+
+Advice: Adequate rest advised.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sneha Shah
+MBBS, MD  |  Reg. No. MMC/89819
+Wellness Point, Nashik
+--------------------------------------------------------------
+Patient: Sunita Desai    Age/Sex: 59/F    Date: 09/07/2026
+Diagnosis: Chronic Myeloid Leukaemia  [ICD-10: C9211]
+
+Rx
+   1. Tab. Myleran (Busulfan) 60mcg — OD (1-0-0) x 2 months, with food
+   2. Tab. Tasigna (Nilotinib) 300mg — QID (1-1-1-1) x 3 months
+   3. Tab. Dasatinib 100mg — OD (0-0-1) x 14 days, with food
+   4. Tab. Iclusig (Ponatinib) 15mg — QID (1-1-1-1) x 14 days, before food
+
+Advice: Diabetic diet to be followed.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Rajesh Iyer
+Internal Medicine  |  Reg. No. MMC/32108
+Sunrise Clinic, Mumbai
+--------------------------------------------------------------
+Patient: Sunita Pillai    Age/Sex: 13/F    Date: 26/06/2026
+Diagnosis: Forgetfulness
+
+Rx
+   1. Tab. Lisdexamfetamine 10mg — HS (0-0-1) x 3 months, with food
+   2. Tab. Cotempla Xr-Odt (Methylphenidate) 10mg — SOS x 7 days, before food
+   3. Tab. Atomoxetine 1.2mg — BD (1-0-1) x 5 days, empty stomach
+
+Advice: Avoid self-medication.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Meera Singh
+M.D. (Medicine)  |  Reg. No. MMC/90143
+Arogya Clinic, Thane
+--------------------------------------------------------------
+Patient: Ramesh Verma    Age/Sex: 23/M    Date: 17/02/2026
+Diagnosis: Lichen Simplex Chronicus  [ICD-10: L280]
+
+Rx
+   1. Cream. Halcinonide — QID (1-1-1-1) x 3 months, before food
+   2. Tab. Doxepin 6mg — OD (1-0-0) x 14 days, empty stomach
+
+Advice: Review if symptoms worsen.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anita Verma
+Internal Medicine  |  Reg. No. MMC/54878
+City Care Polyclinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Kavita Sharma    Age/Sex: 45/F    Date: 23/08/2026
+Diagnosis: Discoid Lupus Erythematosus  [ICD-10: L930]
+
+Rx
+   1. Drops. Ozurdex (Dexamethasone) 40mg — OD (0-0-1) x 2 months
+   2. Cream. Triamcinolone 40mg — BD (1-0-1) x 3 months, after food
+
+Advice: Review if symptoms worsen.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Nikhil Sharma
+General Physician  |  Reg. No. MMC/28536
+Shree Medical Centre, Pune
+--------------------------------------------------------------
+Patient: Amit Sharma    Age/Sex: 85/M    Date: 13/05/2026
+Diagnosis: Microalbuminuria
+
+Rx
+   1. Tab. Ramipril 20mg — QID (1-1-1-1) x 7 days, with food
+   2. Tab. Avapro (Irbesartan) 150mg — TDS (1-1-1) x 2 months, before food
+
+Advice: Complete the full course.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anjali Chauhan
+M.D. (Medicine)  |  Reg. No. MMC/90575
+Wellness Point, Pune
+--------------------------------------------------------------
+Patient: Rajesh Banerjee    Age/Sex: 36/M    Date: 20/03/2026
+Diagnosis: Autoimmune Disorder  [ICD-10: E079]
+
+Rx
+   1. Susp. Megestrol Acetate (Megestrol) 20ml — TDS (1-1-1) x as advised
+
+Advice: Monitor blood pressure at home.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Shalini Banerjee
+M.D. (Medicine)  |  Reg. No. MMC/31986
+Sunrise Clinic, Nashik
+--------------------------------------------------------------
+Patient: Nikhil Kumar    Age/Sex: 19/M    Date: 02/03/2026
+Diagnosis: Berylliosis  [ICD-10: J632]
+
+Rx
+   1. Cream. Triamcinolone 100mg — HS (0-0-1) x 7 days, before food
+   2. Soln. Prednisolone 5mg — QID (1-1-1-1) x 10 days
+
+Advice: Avoid self-medication.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Suresh Patel
+M.D. (Medicine)  |  Reg. No. MMC/62842
+Sunrise Clinic, Thane
+--------------------------------------------------------------
+Patient: Sameer Patel    Age/Sex: 47/M    Date: 24/02/2026
+Diagnosis: Dandruff
+
+Rx
+   1. Cream. Ketoconazole — TDS (1-1-1) x 14 days, before food
+   2. Tab. Sodium Sulfacetamide 10% Wash (Sulfacetamide) — QID (1-1-1-1) x 5 days, empty stomach
+
+Advice: Low salt diet.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anjali Nair
+Consultant Physician  |  Reg. No. MMC/33294
+Wellness Point, Nagpur
+--------------------------------------------------------------
+Patient: Divya Shah    Age/Sex: 62/F    Date: 09/09/2026
+Diagnosis: Idiopathic Thrombocytopenic Purpura  [ICD-10: D693]
+
+Rx
+   1. Inj. Methylprednisolone 48mg — OD (0-0-1) x 5 days
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sanjay Pillai
+Internal Medicine  |  Reg. No. MMC/54464
+Shree Medical Centre, Nagpur
+--------------------------------------------------------------
+Patient: Manoj Kulkarni    Age/Sex: 7/M    Date: 27/10/2026
+Diagnosis: Transplant Rejection  [ICD-10: T8611]
+
+Rx
+   1. Tab. Mycophenolic Acid (Mycophenolic) 440mg — BD (1-0-1) x 14 days, after food
+   2. Oint. Envarsus Xr (Tacrolimus) — BD (1-0-1) x 10 days, with food
+   3. Tab. Mycophenolate 2g — TDS (1-1-1) x 3 days, empty stomach
+
+Advice: Complete the full course.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Suresh Kumar
+General Physician  |  Reg. No. MMC/86749
+City Care Polyclinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Sanjay Rao    Age/Sex: 16/M    Date: 03/11/2026
+Diagnosis: Acute Sinusitis  [ICD-10: J0180]
+
+Rx
+   1. Susp. Cefpodoxime — SOS x 14 days, empty stomach
+
+Advice: Complete the full course.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anjali Bose
+Internal Medicine  |  Reg. No. MMC/70194
+Sunrise Clinic, Pune
+--------------------------------------------------------------
+Patient: Arun Iyer    Age/Sex: 50/M    Date: 26/07/2026
+Diagnosis: Tension  [ICD-10: J930]
+
+Rx
+   1. Inj. Nitroglycerin 0.4mg — BD (1-0-1) x 5 days, before food
+   2. Tab. Meprobamate 2400mg — TDS (1-1-1) x 3 days, with food
+   3. Soln. Hydroxyzine 100mg — TDS (1-1-1) x 7 days, before food
+
+Advice: Avoid self-medication.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Arun Mehta
+Internal Medicine  |  Reg. No. MMC/85995
+City Care Polyclinic, Nagpur
+--------------------------------------------------------------
+Patient: Sanjay Kumar    Age/Sex: 87/M    Date: 16/02/2026
+Diagnosis: Breast Cancer  [ICD-10: C4352]
+
+Rx
+   1. Inj. Doxorubicin 75mg — QID (1-1-1-1) x 3 days, after food
+   2. Tab. Tamoxifen 40mg — SOS x as advised, with food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Arun Malhotra
+Consultant Physician  |  Reg. No. MMC/71920
+Sunrise Clinic, Pune
+--------------------------------------------------------------
+Patient: Priya Joshi    Age/Sex: 9/F    Date: 12/06/2026
+Diagnosis: Endometrial Hyperplasia  [ICD-10: N8500]
+
+Rx
+   1. Tab. Esterified Estrogens And Methyltestosterone (Ogen) — SOS x 3 days, empty stomach
+
+Advice: Adequate rest advised.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Prakash Shah
+Consultant Physician  |  Reg. No. MMC/25368
+Arogya Clinic, Thane
+--------------------------------------------------------------
+Patient: Divya Pillai    Age/Sex: 53/F    Date: 07/11/2026
+Diagnosis: Restless Legs Syndrome  [ICD-10: G2581]
+
+Rx
+   1. Tab. Neupro (Rotigotine) 2mg — TDS (1-1-1) x 1 month, after food
+
+Advice: Avoid alcohol during treatment.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anjali Verma
+General Physician  |  Reg. No. MMC/36269
+City Care Polyclinic, Nashik
+--------------------------------------------------------------
+Patient: Nikhil Banerjee    Age/Sex: 46/M    Date: 14/12/2026
+Diagnosis: High Density Lipoprotein Decreased  [ICD-10: D72818]
+
+Rx
+   1. Tab. Lopid (Gemfibrozil) 200mg — TDS (1-1-1) x 2 months, after food
+
+Advice: Low salt diet.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Amit Bose
+General Physician  |  Reg. No. MMC/68589
+Nirmal Hospital OPD, Pune
+--------------------------------------------------------------
+Patient: Kavita Banerjee    Age/Sex: 70/F    Date: 13/08/2026
+Diagnosis: Glucose-6-Phosphate Dehydrogenase Deficiency  [ICD-10: D550]
+
+Rx
+   1. Inj. 365 Whole Foods Market Acetaminophen (Acetaminophen) 250mg — TDS (1-1-1) x 10 days, after food
+
+Advice: Avoid self-medication.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Ramesh Pillai
+Consultant Physician  |  Reg. No. MMC/64207
+Wellness Point, Pune
+--------------------------------------------------------------
+Patient: Sanjay Joshi    Age/Sex: 38/M    Date: 12/09/2026
+Diagnosis: Cerebrovascular Accident  [ICD-10: A5205]
+
+Rx
+   1. Inj. Nitro-Dur (Nitroglycerin) 400mcg — OD (0-0-1) x 10 days, after food
+   2. Drops. Dopamine 1515 (Dopamine) — BD (1-0-1) x as advised, before food
+   3. Susp. Aspirin 81mg — OD (0-0-1) x as advised, after food
+   4. Tab. Sorafenib 400mg — OD (1-0-0) x as advised
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Neha Iyer
+M.D. (Medicine)  |  Reg. No. MMC/85446
+Shree Medical Centre, Nashik
+--------------------------------------------------------------
+Patient: Deepa Gupta    Age/Sex: 63/F    Date: 18/02/2026
+Diagnosis: Sting
+
+Rx
+   1. Drops. Epipen Jr (Epinephrine) 0.1mg — TDS (1-1-1) x 14 days, after food
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Rajesh Verma
+M.D. (Medicine)  |  Reg. No. MMC/46677
+Sunrise Clinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Anjali Nair    Age/Sex: 88/F    Date: 01/09/2026
+Diagnosis: Laryngeal Oedema  [ICD-10: A362]
+
+Rx
+   1. Drops. Hemady (Dexamethasone) 0.75mg — BD (1-0-1) x 7 days, with food
+   2. Inj. Medrol (Methylprednisolone) 4mg — HS (0-0-1) x 2 months, after food
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sunita Bose
+General Physician  |  Reg. No. MMC/22417
+Nirmal Hospital OPD, Mumbai
+--------------------------------------------------------------
+Patient: Prakash Pillai    Age/Sex: 57/M    Date: 04/09/2026
+Diagnosis: Coccidioidomycosis  [ICD-10: B383]
+
+Rx
+   1. Cream. Ketoconazole — QID (1-1-1-1) x 10 days, before food
+   2. Soln. Griseofulvin Microsize (Griseofulvin) — BD (1-0-1) x 2 months, empty stomach
+
+Advice: Adequate rest advised.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Neha Reddy
+MBBS, MD  |  Reg. No. MMC/24046
+City Care Polyclinic, Nashik
+--------------------------------------------------------------
+Patient: Meera Malhotra    Age/Sex: 76/F    Date: 06/08/2026
+Diagnosis: Thromboembolic Event  [ICD-10: Y9382]
+
+Rx
+   1. Tab. Warfarin Sodium (Warfarin) — OD (0-0-1) x as advised, empty stomach
+   2. Inj. Fondaparinux Sodium (Fondaparinux) 2.5mg — SOS x 10 days, with food
+
+Advice: Complete the full course.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Prakash Verma
+M.D. (Medicine)  |  Reg. No. MMC/10021
+Nirmal Hospital OPD, Aurangabad
+--------------------------------------------------------------
+Patient: Rahul Reddy    Age/Sex: 16/M    Date: 05/04/2026
+Diagnosis: Prostatomegaly
+
+Rx
+   1. Cap. Dutasteride 0.5mg — QID (1-1-1-1) x 7 days, with food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Pooja Singh
+Consultant Physician  |  Reg. No. MMC/56815
+Nirmal Hospital OPD, Pune
+--------------------------------------------------------------
+Patient: Ashok Singh    Age/Sex: 76/M    Date: 09/03/2026
+Diagnosis: Febrile Neutropenia  [ICD-10: D703]
+
+Rx
+   1. Inj. Cefepime 2g — HS (0-0-1) x 14 days, before food
+   2. Inj. Meropenem 500mg — QID (1-1-1-1) x 10 days, before food
+
+Advice: Avoid alcohol during treatment.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Shalini Chauhan
+Internal Medicine  |  Reg. No. MMC/65733
+City Care Polyclinic, Navi Mumbai
+--------------------------------------------------------------
+Patient: Prakash Reddy    Age/Sex: 23/M    Date: 13/03/2026
+Diagnosis: Upset Stomach  [ICD-10: D002]
+
+Rx
+   1. Inj. Ketorolac 0.25mg — QID (1-1-1-1) x 2 months, empty stomach
+
+Advice: Avoid alcohol during treatment.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Bose
+M.D. (Medicine)  |  Reg. No. MMC/21293
+Wellness Point, Kalyan
+--------------------------------------------------------------
+Patient: Vijay Rao    Age/Sex: 27/M    Date: 02/10/2026
+Diagnosis: Angina Unstable  [ICD-10: I200]
+
+Rx
+   1. Cap. Procardia Xl (Nifedipine) 10mg — TDS (1-1-1) x 5 days, before food
+
+Advice: Monitor blood pressure at home.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sanjay Sharma
+M.D. (Medicine)  |  Reg. No. MMC/36355
+Arogya Clinic, Nagpur
+--------------------------------------------------------------
+Patient: Sunita Patel    Age/Sex: 83/F    Date: 04/05/2026
+Diagnosis: Ulcerative Keratitis  [ICD-10: A690]
+
+Rx
+   1. Cream. Cortisone 10mg — OD (0-0-1) x 3 months, before food
+   2. Drops. Dexamethasone 20mg — QID (1-1-1-1) x 14 days, after food
+
+Advice: Complete the full course.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anjali Joshi
+MBBS, MD  |  Reg. No. MMC/21501
+Shree Medical Centre, Mumbai
+--------------------------------------------------------------
+Patient: Ashok Shah    Age/Sex: 30/M    Date: 13/05/2026
+Diagnosis: Meningitis  [ICD-10: A0101]
+
+Rx
+   1. Inj. Pentobarbital Sodium (Pentobarbital) — SOS x 5 days, with food
+
+Advice: Plenty of oral fluids.
+Follow-up: after 5 days
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Swati Verma
+M.D. (Medicine)  |  Reg. No. MMC/42307
+Arogya Clinic, Mumbai
+--------------------------------------------------------------
+Patient: Sameer Joshi    Age/Sex: 49/M    Date: 14/07/2026
+Diagnosis: Chorioretinitis  [ICD-10: A1853]
+
+Rx
+   1. Cream. Alacort (Cortisone) 10mg — SOS x as advised, empty stomach
+
+Advice: Regular exercise advised.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Vijay Bose
+Consultant Physician  |  Reg. No. MMC/40324
+Shree Medical Centre, Nagpur
+--------------------------------------------------------------
+Patient: Meera Pillai    Age/Sex: 47/F    Date: 14/01/2026
+Diagnosis: Bone Density Decreased  [ICD-10: M859]
+
+Rx
+   1. Tab. Ibandronate 3mg — QID (1-1-1-1) x 1 month
+   2. Soln. Alendronate 70mg — OD (1-0-0) x 7 days, after food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sneha Banerjee
+MBBS, MD  |  Reg. No. MMC/71838
+Arogya Clinic, Pune
+--------------------------------------------------------------
+Patient: Neha Reddy    Age/Sex: 44/F    Date: 26/08/2026
+Diagnosis: Wolff-Parkinson-White Syndrome  [ICD-10: R9082]
+
+Rx
+   1. Tab. Propranolol 1ml — SOS x 3 days, before food
+
+Advice: Low salt diet.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Sneha Verma
+M.D. (Medicine)  |  Reg. No. MMC/35664
+Arogya Clinic, Aurangabad
+--------------------------------------------------------------
+Patient: Meera Singh    Age/Sex: 43/F    Date: 19/11/2026
+Diagnosis: Folate Deficiency  [ICD-10: D520]
+
+Rx
+   1. Inj. Hydroxocobalamin — TDS (1-1-1) x 14 days, with food
+
+Advice: Diabetic diet to be followed.
+Follow-up: after 1 month
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Neha Shah
+General Physician  |  Reg. No. MMC/41024
+Arogya Clinic, Nashik
+--------------------------------------------------------------
+Patient: Vijay Verma    Age/Sex: 87/M    Date: 24/05/2026
+Diagnosis: Tracheobronchitis
+
+Rx
+   1. Inj. Cefuroxime 750mg — OD (0-0-1) x 2 months, before food
+   2. Cap. Cefixime 400 Mg (Cefixime) 400mg — OD (1-0-0) x 2 months, before food
+
+Advice: Adequate rest advised.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Anjali Sharma
+MBBS, MD  |  Reg. No. MMC/45482
+Wellness Point, Mumbai
+--------------------------------------------------------------
+Patient: Neha Nair    Age/Sex: 38/F    Date: 07/03/2026
+Diagnosis: Chills  [ICD-10: R6883]
+
+Rx
+   1. Tab. L-Dmp — TDS (1-1-1) x as advised, with food
+   2. Tab. Venlafaxine 112.5mg — BD (1-0-1) x 3 days, after food
+   3. Tab. Sertraline Hcl (Sertraline) 150mg — HS (0-0-1) x 2 months, after food
+
+Advice: Regular exercise advised.
+Follow-up: SOS
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Nikhil Singh
+Internal Medicine  |  Reg. No. MMC/85092
+Nirmal Hospital OPD, Kalyan
+--------------------------------------------------------------
+Patient: Sameer Reddy    Age/Sex: 59/M    Date: 21/01/2026
+Diagnosis: Connective Tissue Disorder  [ICD-10: L949]
+
+Rx
+   1. Tab. Opsumit (Macitentan) 10mg — TDS (1-1-1) x 2 months, empty stomach
+   2. Inj. Sildenafil Citrate (Sildenafil) 20mg — OD (0-0-1) x 3 days, empty stomach
+   3. Tab. Bosentan 62.5mg — TDS (1-1-1) x 7 days, empty stomach
+
+Advice: Avoid self-medication.
+Follow-up: after 2 weeks
+
+Signature: ____________________
+###END
+###DOC PRESCRIPTION
+Dr. Rahul Pillai
+M.D. (Medicine)  |  Reg. No. MMC/84948
+Wellness Point, Kalyan
+--------------------------------------------------------------
+Patient: Kavita Sharma    Age/Sex: 34/F    Date: 08/10/2026
+Diagnosis: Pyelitis  [ICD-10: N2884]
+
+Rx
+   1. Inj. Tazicef (Ceftazidime) — TDS (1-1-1) x 10 days, before food
+   2. Tab. Norfloxacin — TDS (1-1-1) x 2 months, empty stomach
+   3. Drops. Ciprofloxacin 750mg — OD (1-0-0) x 7 days
+   4. Cap. Nitrofurantoin 7mg — QID (1-1-1-1) x 7 days, empty stomach
+
+Advice: Plenty of oral fluids.
+Follow-up: after 1 week
+
+Signature: ____________________
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 12/02/2026
+Result Report - specimen serum
+
+HbA1c 8.4 % (4.0-5.6)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 12/02/2026
+Result Report - specimen serum
+
+Fasting Glucose 162 mg/dL (70-100)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 12/02/2026
+Result Report - specimen serum
+
+Haemoglobin 11.2 g/dL (12.0-15.5)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 12/02/2026
+Result Report - specimen serum
+
+Creatinine 1.4 mg/dL (0.7-1.3)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 12/02/2026
+Result Report - specimen serum
+
+Total Cholesterol 241 mg/dL (125-200)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 19/05/2026
+Result Report - specimen serum
+
+HbA1c 7.6 % (4.0-5.6)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 19/05/2026
+Result Report - specimen serum
+
+Fasting Glucose 141 mg/dL (70-100)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 19/05/2026
+Result Report - specimen serum
+
+Haemoglobin 12.4 g/dL (12.0-15.5)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 19/05/2026
+Result Report - specimen serum
+
+Creatinine 1.2 mg/dL (0.7-1.3)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 19/05/2026
+Result Report - specimen serum
+
+Total Cholesterol 214 mg/dL (125-200)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 07/08/2026
+Result Report - specimen serum
+
+HbA1c 6.9 % (4.0-5.6)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 07/08/2026
+Result Report - specimen serum
+
+Fasting Glucose 118 mg/dL (70-100)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 07/08/2026
+Result Report - specimen serum
+
+Haemoglobin 13.1 g/dL (12.0-15.5)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 07/08/2026
+Result Report - specimen serum
+
+Creatinine 1.1 mg/dL (0.7-1.3)
+###END
+###DOC LAB_REPORT
+Sunrise Diagnostics, Mumbai
+Patient: Aditya Soni  Age/Sex: 21/M  Date: 07/08/2026
+Result Report - specimen serum
+
+Total Cholesterol 186 mg/dL (125-200)
+###END
